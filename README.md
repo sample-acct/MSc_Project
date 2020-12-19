@@ -1,5 +1,6 @@
-# MSc-proj
+# MSc Project
 
+Code from my master's thesis project at Edinburgh University, 2019
 
 ## spacecarve.py
 
