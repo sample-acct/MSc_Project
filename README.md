@@ -1,6 +1,6 @@
 # MSc Project
 
-Code from my master's thesis project _Active Viewpoint Selection for 3D Reconstruction with Space Carving_ at Edinburgh University, 2019
+Code from my master's thesis project
 
 ### Input data
 
