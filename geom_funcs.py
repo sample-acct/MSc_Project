@@ -63,7 +63,7 @@ def viewToCamMat(view):
     r = Rot.from_euler('XYZ', rotation)
     R = np.transpose(r.as_dcm())
     T = -1  * np.matmul(R, position)
-    return np.vstack((np.column_stack((R, T)), np.array([0, 0, 0, 1]))) # TODO change to homogeneous
+    return np.vstack((np.column_stack((R, T)), np.array([0, 0, 0, 1]))) 
 
 
 def dirToView(direction, cam_q, center, arc_length):
